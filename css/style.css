@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+}
+
+div {
+    width: 500px;
+    height: 500px;
+    border: 5px solid rgb(42, 3, 92);
+    background-image: url("http://www.ccl-valleedoree.fr/wp-content/uploads/2016/06/Ballon_3-Copier.png");
+}
+
+h1 {
+    width: 200px;
+    height: 40px;
+    border: 5px solid rgb(29, 3, 175);
+    border-radius: 10px;
+    color: rgb(38, 35, 240);
+    margin: 0;
+    text-align: center;
+    background: white;
+}
